@@ -21,6 +21,15 @@ h1
 	font-size: 120px;
 	color: #FFFFFF;
 }
+footer p
+{
+	text-align: center;
+	color: #FFFFFF;	
+}
+footer p a
+{
+	color: #FFFFFF;	
+}
 .collection
 {
 	max-width: 1180px;

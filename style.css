@@ -13,5 +13,7 @@ html
 }
 h1
 {
-  font-family: 'CloisterBlack';
+	font-family: 'CloisterBlack';
+	text-align: center;
+	font-size: 59px;
 }

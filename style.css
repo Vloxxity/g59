@@ -5,7 +5,7 @@ html
 	#background-image: url(bg.jpg);
 	#background-size: cover;
 	#background-attachment: fixed;
-	background-color: red;
+	background-color: grey;
 }
 @font-face {
 	font-family: 'CloisterBlack';

@@ -7,13 +7,11 @@ html
 	#background-attachment: fixed;
 	background-color: red;
 }
-input
-{
-	border: none;
-	background-color: #CCCCCC;
+@font-face {
+	font-family: 'CloisterBlack';
+	src: url('/fonts/CloisterBlack.ttf')  format('truetype');
 }
-input[type="submit"],
-input[type="button"]
+h1
 {
-	background-color: #DDDDDD;
+  font-family: 'CloisterBlack';
 }

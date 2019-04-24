@@ -6,6 +6,9 @@ html
 	#background-size: cover;
 	#background-attachment: fixed;
 	background-color: grey;
+	
+	
+	font-family: "Oswald","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 @font-face {
 	font-family: 'CloisterBlack';
@@ -15,5 +18,83 @@ h1
 {
 	font-family: 'CloisterBlack';
 	text-align: center;
-	font-size: 59px;
+	font-size: 120px;
+	color: #FFFFFF;
+}
+.collection
+{
+	max-width: 1180px;
+    margin: 0 auto;
+	padding: 2%;
+	margin-bottom: 5%;
+}
+.collection .product
+{
+	float: left;
+	width: 22%;
+	margin-right: 4%;
+}
+.collection .product:nth-child(4)
+{
+	margin-right: 0%;	
+}
+.collection .product img
+{
+	width: 100%;
+}
+.collection h2
+{
+    font-size: 2em;
+    color: #000000;
+    display: block;
+    text-align: center;
+}
+.collection#iwtdino h2
+{
+    color: #f9374b;
+}
+.collection .product ul li
+{
+	font-weight: bold;
+    text-transform: none;
+    font-size: 1em;
+    color: #000000;
+    display: block;
+    text-align: center;
+}
+.collection#iwtdino .product ul li
+{
+	font-weight: bold;
+    text-transform: none;
+    font-size: 1em;
+    color: #f9374b;
+    display: block;
+    text-align: center;
+}
+.collection
+{
+	background-color: #FFFFFF;
+}
+.collection#iwtdino
+{
+	background-color: #000000;
+}
+.collection .product img
+{
+	border: 1px solid grey;
+	background-color: #FFFFFF;
+}
+.collection#iwtdino .product img
+{
+    border: 0px;
+	background-color: #FFFFFF;
+}
+.clearfix:after
+{
+    content: ".";
+    display: block !important;
+    height: 0 !important;
+    line-height: 0 !important;
+    clear: both !important;
+    visibility: hidden !important;
 }

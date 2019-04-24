@@ -5,7 +5,7 @@ html
 	#background-image: url(bg.jpg);
 	#background-size: cover;
 	#background-attachment: fixed;
-	background-color: grey;
+	background-color: #595959;
 	
 	
 	font-family: "Oswald","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -62,7 +62,8 @@ h1
     display: block;
     text-align: center;
 }
-.collection#iwtdino .product ul li
+.collection#iwtdino .product ul li,
+.collection#iwtdino p
 {
 	font-weight: bold;
     text-transform: none;
@@ -88,6 +89,17 @@ h1
 {
     border: 0px;
 	background-color: #FFFFFF;
+}
+.icon-cart
+{
+	position: fixed;
+    top: 20px;
+    right: 20px;
+	font-size: 50px;
+}
+.icon-cart a
+{
+	color: #eb2740 !important;
 }
 .clearfix:after
 {

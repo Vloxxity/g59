@@ -97,11 +97,19 @@ footer p a
 {
 	background-color: #000000;
 }
+.collection .product .image-container
+{
+	padding-top: 100%;
+}
 .collection .product .image
 {
+	position:absolute;
+	top:	0px;
+	left:	0px;
+	right:	0px;
+	bottom: 0px;
 	border: 1px solid grey;
 	background-color: #FFFFFF;
-	padding-top: 100%;
 }
 .collection#iwtdino .product .image
 {

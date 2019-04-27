@@ -111,6 +111,7 @@ footer p a
 	bottom: 0px;
 	border: 1px solid grey;
 	background-color: #FFFFFF;
+	overflow: hidden;
 }
 .collection#iwtdino .product .image
 {
@@ -126,7 +127,6 @@ footer p a
     margin-right: -50%;
     left: 50%;
     transform: translate(-50%, -50%);
-	overflow: hidden;
 }
 .icon-cart
 {

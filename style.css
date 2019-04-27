@@ -79,15 +79,19 @@ footer p a
     display: block;
     text-align: center;
 }
-.collection#iwtdino .product ul li,
-.collection#iwtdino p
+.collection .product ul li,
+.collection p
 {
 	font-weight: bold;
     text-transform: none;
     font-size: 1em;
-    color: #f9374b;
     display: block;
     text-align: center;
+}
+.collection#iwtdino .product ul li,
+.collection#iwtdino p
+{
+    color: #f9374b;
 }
 .collection
 {

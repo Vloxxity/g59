@@ -51,10 +51,6 @@ footer p a
 {
 	margin-right: 0%;	
 }
-.collection .product img
-{
-	width: 100%;
-}
 .collection h2
 {
     font-size: 2em;
@@ -111,6 +107,11 @@ footer p a
 {
     border: 0px;
 	background-color: #FFFFFF;
+}
+.collection .product img
+{
+	width: 100%;
+	display: block;
 }
 .icon-cart
 {

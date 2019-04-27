@@ -102,6 +102,10 @@ footer p a
 	padding-top: 100%;
 	position: relative;
 }
+.collection .product .image-container:hover .image:nth-child(0n+2)
+{
+	display: none;
+}
 .collection .product .image
 {
 	position:absolute;

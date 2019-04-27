@@ -105,8 +105,9 @@ footer p a
 {
 	border: 1px solid grey;
 	background-color: #FFFFFF;
+	padding-top: 100%;
 }
-.collection#iwtdino .product img
+.collection#iwtdino .product .image
 {
     border: 0px;
 	background-color: #FFFFFF;

@@ -58,7 +58,7 @@ footer p a
     display: block;
     text-align: center;
 }
-.collection#iwtdino h2
+.collection:nth-child(even) h2
 {
     color: #f9374b;
 }
@@ -84,8 +84,13 @@ footer p a
     display: block;
     text-align: center;
 }
-.collection#iwtdino .product ul li,
-.collection#iwtdino p
+.collection p a,
+.collection li a
+{
+	color: inherit;
+}
+.collection:nth-child(even) .product ul li,
+.collection:nth-child(even) p
 {
     color: #f9374b;
 }
@@ -93,16 +98,16 @@ footer p a
 {
 	background-color: #FFFFFF;
 }
-.collection#iwtdino
+.collection:nth-child(even)
 {
 	background-color: #000000;
 }
-.collection .product .image-container
+.collection .product .images
 {
 	padding-top: 100%;
 	position: relative;
 }
-.collection .product .image-container:hover .image:nth-child(0n+2)
+.collection .product .images:hover .image:nth-child(0n+2)
 {
 	display: none;
 }
@@ -113,14 +118,22 @@ footer p a
 	left:	0px;
 	right:	0px;
 	bottom: 0px;
-	border: 1px solid grey;
+	border: 3px solid black;
 	background-color: #FFFFFF;
 	overflow: hidden;
 }
-.collection#iwtdino .product .image
+.collection:nth-child(even) .product .image
 {
-    border: 0px;
-	background-color: #FFFFFF;
+	border: 3px solid white;
+	background-color: #000000;
+}
+.collection .product.have .image
+{
+	border: 3px solid green;
+}
+.collection .product.want .image
+{
+	border: 3px solid orange;
 }
 .collection .product img
 {

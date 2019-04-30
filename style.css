@@ -145,16 +145,31 @@ footer p a
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.icon-cart
+.carts
 {
 	position: fixed;
-    top: 20px;
+    top: 0px;
     right: 20px;
-	font-size: 50px;
+	width: 56px;
+	font-size: 30px;
+}
+.icon-cart
+{
+    margin-top: 40px;
+	display: block;
+	text-align: center;
+	position: relative;
 }
 .icon-cart a
 {
+	color: #ffffff !important;
+}
+.fa-shopping-cart:before {
 	color: #eb2740 !important;
+    position: absolute;
+	z-index: -1;
+	font-size: 70px;
+	left: -15px;
 }
 @media (max-width: 900px) {
 	.collection .products .product,

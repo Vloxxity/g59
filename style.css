@@ -171,6 +171,10 @@ footer p a
 	font-size: 70px;
 	left: -15px;
 }
+.fake
+{
+	display: none;
+}
 @media (max-width: 900px) {
 	.collection .products .product,
 	.collection .products .product:nth-child(4n+0)

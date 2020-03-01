@@ -175,6 +175,14 @@ footer p a
 {
 	display: none;
 }
+.collection-preview
+{
+	display: none;
+}
+.collection-preview-link:hover + .collection-preview
+{
+	display: block;
+}
 @media (max-width: 900px) {
 	.collection .products .product,
 	.collection .products .product:nth-child(4n+0)

@@ -10,6 +10,398 @@
 			<span class="icon-cart"><a href="https://suicideboysstore.com/" target="_blank"><i class="fas fa-shopping-cart">$B</i></a></span>
 			<span class="icon-cart"><a href="https://www.g59recordsmerchandise.com/" target="_blank"><i class="fas fa-shopping-cart">G59</i></a></span>
 		</div>
+		<section class="collection clearfix">
+			<h2>F/W essentials collection</h2>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1847353128964018189" target="_blank">Oct 18, 2024</a></p>
+			<img class="collection-preview" src="collections\FW-essentials-collection\all.jpg"/>
+		</section>
+		<section class="collection clearfix">
+			<h2>we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style</h2>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1832498253155475881" target="_blank">Sep 07, 2024</a></p>
+			<img class="collection-preview" src="collections\we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style\all.jpg"/>
+			<div class="products">
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style\GW5Xcs8a8AAyo8i.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style\GW5Xcs8a8AIAr4D.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style\GW5Xcs8aYAAGQec.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style\GWvrwMma8AEPXJU.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style\GWvrwNEXkAE3qNQ.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style\GWvrwNIXQAA49Df.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\we’re really sorry you didn’t get a lyric book so we limited the amount of items you can purchase to 3 pieces per style\GWvrwNOW0AAvtQh.jpg" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="collection clearfix">
+			<h2>Duckboy</h2>
+			<p class="collection-preview-link"><a href="https://x.com/G59RECORDS/status/1827104503239471120" target="_blank">Aug 25, 2024</a></p>
+			<img class="collection-preview" src="collections\Duckboy\all.jpg"/>
+		</section>
+		<section class="collection clearfix">
+			<h2>Lonely Boy</h2>
+			<p class="collection-preview-link"><a href="https://x.com/G59RECORDS/status/1827104503239471120" target="_blank">Aug 25, 2024</a></p>
+			<img class="collection-preview" src="collections\Lonely Boy\all.jpg"/>
+		</section>
+		<section class="collection clearfix">
+			<h2>NEW WORLD DEPRESSION COLLECTION</h2>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1804228704715051246" target="_blank">Jun 21, 2024</a></p>
+			<img class="collection-preview" src="collections\NEW WORLD DEPRESSION COLLECTION\all.jpg"/>
+			<div class="products">
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\NEW WORLD DEPRESSION COLLECTION\GQdrRsyaIAMKwzE.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\NEW WORLD DEPRESSION COLLECTION\GQdrRtqawAA05zU.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\NEW WORLD DEPRESSION COLLECTION\GQdrRtZaIAEDYVz.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\NEW WORLD DEPRESSION COLLECTION\GQdrRuNaIAI3NWH.jpg" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="collection clearfix">
+			<h2>MAY DAY: GREY59 RECORDS SUMMER ESSENTIAL ITEMS</h2>
+			<p class="collection-preview-link"><a href="https://x.com/G59RECORDS/status/1788631431595626621" target="_blank">Sep 07, 2024</a></p>
+			<img class="collection-preview" src="collections\MAY DAY GREY59 RECORDS SUMMER ESSENTIAL ITEMS\GNJ-zneWsAAK5X1.jpg"/>
+			<div class="products">
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\MAY DAY GREY59 RECORDS SUMMER ESSENTIAL ITEMS\GNJ-znbXgAEc3XO.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\MAY DAY GREY59 RECORDS SUMMER ESSENTIAL ITEMS\GNJ-zncXQAEkzW_.jpg" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="collection clearfix">
+			<h2>FALLWINTER 2023 COLLECTION</h2>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1732490372176052442" target="_blank">Dec 6, 2023</a></p>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1737563694974824778" target="_blank">Dec 20, 2023</a></p>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1737926778826395810" target="_blank">Dec 21, 2023</a></p>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1738289635762069696" target="_blank">Dec 22, 2023</a></p>
+			<!--<img class="collection-preview" src="collections\FALLWINTER 2023 COLLECTION\all.jpg"/>-->
+			<div class="products">
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\FALLWINTER 2023 COLLECTION\GAsKz8FXMAAxbdf.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\FALLWINTER 2023 COLLECTION\GAsKz8GXAAAgWcT.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\FALLWINTER 2023 COLLECTION\GAsKz8HWwAAVIz4.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\FALLWINTER 2023 COLLECTION\GB0Q-JoXUAAXyZM.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\FALLWINTER 2023 COLLECTION\GB0Q-JsXYAAotDV.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\FALLWINTER 2023 COLLECTION\GB5bMdRWAAAsxU_.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\FALLWINTER 2023 COLLECTION\GB5bMdUWUAATowv.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\FALLWINTER 2023 COLLECTION\GB-lNaWW0AAkwmM.jpg" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="collection clearfix">
+			<h2>RAZOR V MERCH COLLECTION</h2>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1710369573730750479" target="_blank">6. Okt. 2023</a></p>
+			<img class="collection-preview" src="collections\RAZOR V MERCH COLLECTION\F7x0D0XbQAAJmGR.jpg"/>
+			<div class="products">
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\RAZOR V MERCH COLLECTION\F7x0D0aaoAAtydm.jpg" />
+						</div>
+					</div>
+					<ul>
+						<a href="https://x.com/SUICIDEBOYS/status/1710369573730750479" target="_blank">
+							<li>??</li>
+						</a>
+						<li>$??.??</li>
+					</ul>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\RAZOR V MERCH COLLECTION\F7x0D0XaIAAMtVT.jpg" />
+						</div>
+					</div>
+					<ul>
+						<a href="https://x.com/SUICIDEBOYS/status/1710369573730750479" target="_blank">
+							<li>??</li>
+						</a>
+						<li>$??.??</li>
+					</ul>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\RAZOR V MERCH COLLECTION\F7s47kXbMAA2T1P.jpg" />
+						</div>
+					</div>
+					<ul>
+						<a href="https://x.com/SUICIDEBOYS/status/1710023088099000350" target="_blank">
+							<li>??</li>
+						</a>
+						<li>$??.??</li>
+					</ul>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\RAZOR V MERCH COLLECTION\F7s47kXbkAA4ySp.jpg" />
+						</div>
+					</div>
+					<ul>
+						<a href="https://x.com/SUICIDEBOYS/status/1710023088099000350" target="_blank">
+							<li>??</li>
+						</a>
+						<li>$??.??</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		
+		
+		<section class="collection clearfix">
+			<h2>G59 SPRING SUMMER COLLECTION</h2>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1685003157175177216" target="_blank">28. Juli 2023</a></p>
+			<img class="collection-preview" src="collections\G59 SPRING SUMMER COLLECTION\F2JVcLwW4AAi99f.jpg"/>
+			<div class="products">
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\G59 SPRING SUMMER COLLECTION\F1_B2UkXoAEFMSO.jpg" />
+						</div>
+					</div>
+					<ul>
+						<a href="https://x.com/SUICIDEBOYS/status/1684277930619199505" target="_blank">
+							<li>???</li>
+						</a>
+						<li>$??.??</li>
+					</ul>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\G59 SPRING SUMMER COLLECTION\F1_B2UdXgAAdDuV.jpg" />
+						</div>
+					</div>
+					<ul>
+						<a href="https://x.com/SUICIDEBOYS/status/1684277930619199505" target="_blank">
+							<li>???</li>
+						</a>
+						<li>$??.??</li>
+					</ul>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\G59 SPRING SUMMER COLLECTION\F1_B2UgXgAE9fDh.jpg" />
+						</div>
+					</div>
+					<ul>
+						<a href="https://x.com/SUICIDEBOYS/status/1684277930619199505" target="_blank">
+							<li>???</li>
+						</a>
+						<li>$??.??</li>
+					</ul>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\G59 SPRING SUMMER COLLECTION\F1_B2UhWIAEJADd.jpg" />
+						</div>
+					</div>
+					<ul>
+						<a href="https://x.com/SUICIDEBOYS/status/1684277930619199505" target="_blank">
+							<li>???</li>
+						</a>
+						<li>$??.??</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		
+		
+		<section class="collection clearfix">
+			<h2>YIN YANG TAPES MERCH CAPSULE</h2>
+			<p class="collection-preview-link"><a href="https://x.com/SUICIDEBOYS/status/1669057378614951936" target="_blank">Jun 14, 2023</a></p>
+			<img class="collection-preview" src="collections\YIN YANG TAPES MERCH CAPSULE\Fymu1r1WwAABDl5.jpg"/>
+			<div class="products">
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\YIN YANG TAPES MERCH CAPSULE\FydEpICWYAE84PY.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\YIN YANG TAPES MERCH CAPSULE\FydEpICWAAE91FR.jpg" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<section class="collection clearfix">
+			<h2>DIRTIESTNASTIESTSHAMELESS$UICIDE</h2>
+			<p class="collection-preview-link"><a href="" target="_blank">Mar 11, 2023</a></p>
+			<div class="products">
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\DIRTIESTNASTIESTSHAMELESS$UICIDE\Fq9vYMqWIAASOJp.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\DIRTIESTNASTIESTSHAMELESS$UICIDE\Fq9vYMtWIAMBw0s.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\DIRTIESTNASTIESTSHAMELESS$UICIDE\Fq9vYMvWwAAq3wl.jpg" />
+						</div>
+					</div>
+				</div>
+				<div class="product">
+					<div class="images">
+						<div class="image">
+							<img src="collections\DIRTIESTNASTIESTSHAMELESS$UICIDE\Fq9vYMvX0AAYMD6.jpg" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<? echo "TEST"; ?>
+		
+		DIRTIESTNASTIESTSHAMELESS$UICIDE
+		FW COLLECTION 2022
+		SING ME A LULLABY, MY SWEET TEMPTATION COLLECTION
+		G59 SPORT COLLECTION
+		GREYDAY TOUR CAPSULE
+		LONG TERM EFFECTS OF SUFFERING COLLECTION
+		AGENDA 2059 COLLECTION
+		MADE IN CHAOS COLLECTION
+		STOP STARING AT THE SHADOWS COLLECTIONS
+		THE HOOLIGAN COLLECTION
+		2015 COLLECTION
+		LIVE FAST, DIE WHENEVER CAPSULE
+		
+		
+		
+		<!--
+		############################
+		-->
 		<section class="collection clearfix fake">
 			<h2>fake/fanmade</h2>
 			<div class="products">
@@ -185,13 +577,13 @@
 		</section>
 		<section class="collection clearfix">
 			<h2>SEARCH & SEIZURE</h2>
-			<p class="collection-preview-link"><a href="https://twitter.com/SUICIDEBOYS/status/1117141604064690176" target="_blank">Apr 13 2019</a></p>
-			<img class="collection-preview" src="collections\search-and-seizure\all.jpg" style="width:100%; height: auto;"/>
+			<p class="collection-preview-link"><a href="https://twitter.com/SUICIDEBOYS/status/1117141604064690176" target="_blank">Apr 13, 2019</a></p>
+			<img class="collection-preview" src="collections\search-and-seizure\all.jpg"/>
 		</section>
 		<section class="collection clearfix" >
 			<h2>"I WANT TO DIE IN NEW ORLEANS" CAPSULE COLLECTION</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/G59RECORDS/status/1055617775228669952" target="_blank">25 Oct 2018</a></p>
-			<img class="collection-preview" src="collections\iwtdino-capsule\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\iwtdino-capsule\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -440,7 +832,7 @@
 		<section class="collection clearfix">
 			<h2>PAINT THE WORLD GREY</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/SuicideChrist/status/1034492109498212352" target="_blank">28 Aug 2018</a></p>
-			<img class="collection-preview" src="collections\paint-the-world-grey\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\paint-the-world-grey\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -461,7 +853,7 @@
 		<section class="collection clearfix">
 			<h2>BORED OF TERROR COLLECTION</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/986686186570813440" target="_blank">18 Apr 2018</a></p>
-			<img class="collection-preview" src="collections\bored-of-terror-collection\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\bored-of-terror-collection\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -811,7 +1203,7 @@
 		<section class="collection clearfix">
 			<h2>Halloween</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/SUICIDEBOYS/status/925145980651098113" target="_blank">31 Oct 2017</a></p>
-			<img class="collection-preview" src="collections\halloween\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\halloween\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -885,7 +1277,7 @@
 			<h2>KILL YOURSELF PART II</h2>
 			<p>DESIGNED BY @adamariagga</p>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/909107694472007680" target="_blank">17 Sep 2017</a></p>
-			<img class="collection-preview" src="collections\kill-yourself-part-ii\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\kill-yourself-part-ii\all.jpg"/>
 			
 			<div class="products">
 				<div class="product">
@@ -1050,7 +1442,7 @@
 		<section class="collection clearfix">
 			<h2>G59 Back To School</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/897610011026894849" target="_blank">15 Aug 2017</a></p>
-			<img class="collection-preview" src="collections\limited-supply-15-Aug-2017\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\limited-supply-15-Aug-2017\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1068,7 +1460,7 @@
 		<section class="collection clearfix">
 			<h2>LIMITED QUANTITY</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/882375194655981570" target="_blank">4 Jul 2017</a></p>
-			<img class="collection-preview" src="collections\limited-quantity-4-Jul-2017\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\limited-quantity-4-Jul-2017\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1097,12 +1489,12 @@
 		<section class="collection clearfix">
 			<h2>KILL YOURSELF MERCH</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/875150325598089218" target="_blank">14 Jun 2017</a></p>
-			<img class="collection-preview" src="collections\kill-yourself-merch\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\kill-yourself-merch\all.jpg"/>
 		</section>
 		<section class="collection clearfix">
 			<h2>DIRTIERNASTIER$UICIDE LINE</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/839312317653401600" target="_blank">7 Mar 2017</a></p>
-			<img class="collection-preview" src="collections\dirtiernastier$uicide\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\dirtiernastier$uicide\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1170,7 +1562,7 @@
 		<section class="collection clearfix">
 			<h2>I NO LONGER FEAR THE RAZOR GUARDING MY HEEL (III)</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/826598829533384704" target="_blank">31 Jan 2017</a></p>
-			<img class="collection-preview" src="collections\i-no-longer fear-the-razor-guarding-my-heel-(iii)\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\i-no-longer fear-the-razor-guarding-my-heel-(iii)\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1241,7 +1633,7 @@
 		<section class="collection clearfix">
 			<h2>Eternal Grey</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/802215526059610113" target="_blank">25 Nov 2016</a></p>
-			<img class="collection-preview" src="collections\eternal-grey\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\eternal-grey\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1340,7 +1732,7 @@
 		<section class="collection clearfix">
 			<h2>???</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/783837110272786432" target="_blank">5 Oct 2016</a></p>
-			<img class="collection-preview" src="collections\5-Oct-2016\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\5-Oct-2016\all.jpg"/>
 			<!--
 			-->
 			<div class="products">
@@ -1468,7 +1860,7 @@
 		<section class="collection clearfix">
 			<h2>???</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/783110438385020934" target="_blank">3 Oct 2016</a></p>
-			<img class="collection-preview" src="collections\3-Oct-2016\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\3-Oct-2016\all.jpg"/>
 			<div class="products">
 				<div class="product want">
 					<div class="images">
@@ -1497,7 +1889,7 @@
 		<section class="collection clearfix">
 			<h2>???</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/775493821903675395" target="_blank">12 Sep 2016</a></p>
-			<img class="collection-preview" src="collections\12-Sep-2016\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\12-Sep-2016\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1543,7 +1935,7 @@
 		<section class="collection clearfix">
 			<h2>???</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/758777851210371073" target="_blank">28 Jul 2016</a></p>
-			<img class="collection-preview" src="collections\28-Jul-2016\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\28-Jul-2016\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1589,7 +1981,7 @@
 		<section class="collection clearfix">
 			<h2>$B Dunk Collection - EXTREMELY LIMITED WONT BE PRINTED AGAIN</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/SuicideChrist/status/746498964875317250" target="_blank">24 Jun 2016</a></p>
-			<img class="collection-preview" src="collections\24-Jun-2016\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\24-Jun-2016\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1665,7 +2057,7 @@
 		<section class="collection clearfix">
 			<h2>???</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/723316298608836608" target="_blank">21 Apr 2016</a></p>
-			<img class="collection-preview" src="collections\21-Apr-2016\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\21-Apr-2016\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1782,7 +2174,7 @@
 				</div>
 			</div>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/715379275461828608" target="_blank">30 Mar 2016</a></p>
-			<img class="collection-preview" src="collections\30-Mar-2016\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\30-Mar-2016\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">
@@ -1817,7 +2209,7 @@
 		<section class="collection clearfix">
 			<h2>???</h2>
 			<p class="collection-preview-link"><a href="https://twitter.com/suicideLEOPARD/status/693228848935096320" target="_blank">29 Jan 2016</a></p>
-			<img class="collection-preview" src="collections\29-Jan-2016\all.jpg" style="width:100%; height: auto;"/>
+			<img class="collection-preview" src="collections\29-Jan-2016\all.jpg"/>
 			<div class="products">
 				<div class="product">
 					<div class="images">

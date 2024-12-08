@@ -178,6 +178,8 @@ footer p a
 .collection-preview
 {
 	/*display: none;*/
+	width:100%;
+	height: auto;
 }
 .collection-preview-link:hover + .collection-preview
 {

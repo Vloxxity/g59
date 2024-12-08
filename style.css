@@ -177,7 +177,7 @@ footer p a
 }
 .collection-preview
 {
-	display: none;
+	/*display: none;*/
 }
 .collection-preview-link:hover + .collection-preview
 {
